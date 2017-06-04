@@ -1,0 +1,41 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway:500);
+@import url(http://fonts.googleapis.com/css?family=Raleway);
+.so-widget-sow-headline-default-7dd984dc8a5c .sow-headline-container h2.sow-headline {
+  font-family: Raleway;
+  font-weight: 500;
+  text-align: left;
+  color: #ffffff;
+  line-height: 1.4em;
+  
+  
+  
+}
+.so-widget-sow-headline-default-7dd984dc8a5c .sow-headline-container h3.sow-sub-headline {
+  font-family: Raleway;
+  font-weight: 400;
+  text-align: center;
+  color: #818181;
+  line-height: 1.4em;
+  
+  
+  
+}
+.so-widget-sow-headline-default-7dd984dc8a5c .sow-headline-container .decoration {
+  line-height: 0em;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.so-widget-sow-headline-default-7dd984dc8a5c .sow-headline-container .decoration .decoration-inside {
+  height: 1px;
+  display: inline-block;
+  border-top: 1px none #EEEEEE;
+  width: 100%;
+  max-width: 80%;
+}
+.so-widget-sow-headline-default-7dd984dc8a5c .sow-headline-container *:first-child {
+  margin-top: 0 !important;
+}
+.so-widget-sow-headline-default-7dd984dc8a5c .sow-headline-container *:last-child {
+  margin-bottom: 0 !important;
+}
